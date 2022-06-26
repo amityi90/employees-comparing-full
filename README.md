@@ -8,7 +8,7 @@ Choose two employees from the list and compare they salary.
 
 - clone the repo and cd to the diractory.
 - run: 'npm install'
-- run: 'npm start
+- run: 'npm start'
 - cd to /api
-- run: python api.py
+- run: 'python api.py'
 - open the app at the browser 'http://localhost:3000/'
